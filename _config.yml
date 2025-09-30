@@ -26,7 +26,7 @@
 
 title: Faith Ombwori
 email: faith@chenaniahsolutions.com
-author: Faith
+author: Ms. Faith Kwamboka Ombwori
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,9 +43,12 @@ author: Faith
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Research Methods and Proffesional Practice. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research Methods and Proffesional Practice. 
+
+  Faith Kwamboka Ombwori is a Cybersecurity Expert currently pursuing a Master’s degree in Cybersecurity at the 
+  University of Essex. She has been recognized across Africa as a top performer in Women in Tech Leadership and Cybersecurity. 
+  Faith leads one of the most successful cybersecurity firms on the continent, where she continues to drive innovation, promote
+  digital resilience, and inspire the next generation of women in technology.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -201,8 +204,4 @@ kmarkdown:
   input: GFM
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-spaceship
+  https://chenaniahsolutions.com
