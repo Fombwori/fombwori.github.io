@@ -1,6 +1,6 @@
 ---
-layout: about
-title: About Faith
+layout: about-faith
+title: about-faith
 ---
 
 ## About
