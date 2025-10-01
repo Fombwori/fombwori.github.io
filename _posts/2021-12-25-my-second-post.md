@@ -1,5 +1,5 @@
 ---
-layout: Course Unit
+layout: post
 title: Principles of Digital Forensics and Cyber Law
 subtitle: The principles of digital forensics and cyber law focus on legally sound methods of collecting, preserving, analyzing, and presenting digital evidence while ensuring compliance with laws that govern cybercrimes and digital rights.
 categories: Cyberlaw
