@@ -1,23 +1,14 @@
 ---
-layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+layout: Course Unit
+title: Principles of Digital Forensics and Cyber Law
+subtitle: The principles of digital forensics and cyber law focus on legally sound methods of collecting, preserving, analyzing, and presenting digital evidence while ensuring compliance with laws that govern cybercrimes and digital rights.
+categories: Cyberlaw
+tags: [Cyberlaw, intro, certificate]
 ---
 
+## Digital Forensics and Cyber Law
 
----
-layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
----
-
-## Introduction to Python
-
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+In an MSc program, Digital Forensics and Cyber Law is a course that equips students with advanced skills to investigate cybercrimes by applying scientific methods to collect, analyze, and preserve digital evidence, while also understanding the legal and regulatory frameworks that govern cyberspace, ensuring investigations and responses align with national and international laws. *Digital Forensics and Cyber Law*
 
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
